@@ -1,3 +1,3 @@
 ## ASTUCE micro company
 
-![Header](./github-header-image.png)
+![Header](./github/profile/github-header-image.png)
